@@ -6,6 +6,6 @@ def square_array(array)
     while array[counter] do
         new_array.push(n*n)
         counter+=1
-    return new_array
-  end
+      end
+return new_array
 end
